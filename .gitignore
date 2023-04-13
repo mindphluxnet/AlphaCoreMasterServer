@@ -1,0 +1,19 @@
+# Ignore pycache and compiled python files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore pipenv virtual environment
+/.venv/
+
+# Ignore any local build artifacts
+/build/
+
+# Ignore any logs or data files
+*.log
+*.csv
+*.json
+
+/.idea/
